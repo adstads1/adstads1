@@ -23,9 +23,6 @@
 
 - :art: Though I enjoy working on both the front and back end, I love creating generative art with code. There's a little taste of some motion graphics below.
 
-<br>
-<br>
-
 <a><img width="70" height="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /></a>
           
 https://user-images.githubusercontent.com/79907183/203523889-2863f50c-1f91-4700-95a8-0e3cd5f1504e.mp4
