@@ -28,7 +28,7 @@
 You can reach me at **tadeleadam@gmail.com**
 
 # Let's do something!
-<p><a href="[[https://www.linkedin.com/in/oliver-cadman-23663b36/](https://www.linkedin.com/in/adam-tadele-033300146/)]]()">Connect with me on LinkedIn</a>
+<p><a href="[https://www.linkedin.com/in/adam-tadele-033300146/]">Connect with me on LinkedIn</a>
 
 ## Languages and Tools I'm Using
 <p>
