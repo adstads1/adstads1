@@ -2,7 +2,7 @@
 
 ![Oliver's Github Profile Views](https://komarev.com/ghpvc/?username=OliverCadman)
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+            
           
 
 <h1 align="center">Hey There :v:</h1>
@@ -19,6 +19,8 @@
 <br>
 <br>
 
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /></a>
+          
 https://user-images.githubusercontent.com/79907183/203523889-2863f50c-1f91-4700-95a8-0e3cd5f1504e.mp4
 
 <br>
