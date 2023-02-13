@@ -2,10 +2,12 @@
 
 ![Oliver's Github Profile Views](https://komarev.com/ghpvc/?username=OliverCadman)
 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+          
 
 <h1 align="center">Hey There :v:</h1>
 <h2 align="center">I'm Adam Tadele, a Data Engineer.</h2>
-<p align="center">I'm passionate to build upon my skillset with each day, and to be creative with code!</p>
+<p align="center">I'm a passionate Data Engineer who loves using frameworks, tools and programming languages to create, maintain, troubleshoot and upgrade data infrastructures and pipelines.</p>
 <br>
 
 - :open_book: Recently graduated with Distinction from the **Code Institute**, with a Diploma in Software Development.
