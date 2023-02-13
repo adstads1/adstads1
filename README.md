@@ -23,17 +23,12 @@
 
 - :art: Though I enjoy working on both the front and back end, I love creating generative art with code. There's a little taste of some motion graphics below.
 
-<a><img width="70" height="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /></a>
-          
-https://user-images.githubusercontent.com/79907183/203523889-2863f50c-1f91-4700-95a8-0e3cd5f1504e.mp4
-
-<br>
 <br>
 
 You can reach me at **tadeleadam@gmail.com**
 
 # Let's do something!
-<p><a href="[https://www.linkedin.com/in/oliver-cadman-23663b36/](https://www.linkedin.com/in/adam-tadele-033300146/)">Connect with me on LinkedIn</a>
+<p><a href="[[https://www.linkedin.com/in/oliver-cadman-23663b36/](https://www.linkedin.com/in/adam-tadele-033300146/)]]()">Connect with me on LinkedIn</a>
 
 ## Languages and Tools I'm Using
 <p>
