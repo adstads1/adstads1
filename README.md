@@ -21,7 +21,7 @@
 
 - :raising_hand_man: I'm here to work on projects that'll make a better tomorrow.
 
-- ⚡: I also enjoy the gym, hiking and reading.
+- ⚡: A few of the many things I enjoy doing is going to the gym 🏋️ going on hikes 🥾 and reading 📚.
 
 <br>
 
