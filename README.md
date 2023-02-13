@@ -21,5 +21,5 @@
 # Let's do something!
 <a href="https://linkedin.com/in/adam-tadele-033300146" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="adam-tadele-033300146" height="40" width="40" /></a>
 
-<a href="https://linkedin.com/in/adam-tadele-033300146" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/kaggle/kaggle-original.svg" alt="adam-tadele-033300146" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/adam-tadele-033300146" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="adam-tadele-033300146" height="40" width="40" /></a>
                                                                                       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
