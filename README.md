@@ -8,8 +8,6 @@
 <p align="center">I'm passionate to build upon my skillset with each day, and to be creative with code!</p>
 <br>
 
-<br>
-
 - :open_book: Recently graduated with Distinction from the **Code Institute**, with a Diploma in Software Development.
 
 - :raising_hand_man: I'm a fervent empath, so please, ask me anything! I'm always keen to collaborate and learn to get a deeper understanding.
