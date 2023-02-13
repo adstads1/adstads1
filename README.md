@@ -10,7 +10,7 @@
 <p align="center">I'm a passionate Data Engineer who loves using 
 <a><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /></a>
 <a><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" /></a>
-<a><img width="70" height="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /></a>
+<a><img width="70" height="0" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /></a>
 <a><img width="70" height="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /></a>
             to create, maintain, troubleshoot and upgrade data infrastructures and pipelines.</p>
 <br>
