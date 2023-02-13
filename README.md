@@ -21,7 +21,7 @@
 
 - :raising_hand_man: I'm here to work on projects that'll make a better tomorrow.
 
-- :art: I also enjoy the gym, hiking and reading.
+- ⚡: I also enjoy the gym, hiking and reading.
 
 <br>
 
