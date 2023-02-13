@@ -7,7 +7,7 @@
 
 <h1 align="center">Hey There :v:</h1>
 <h2 align="center">I'm Adam Tadele, a Data Engineer.</h2>
-<p align="center">I'm a passionate Data Engineer who loves using:</p><br>
+<p align="center">I'm a passionate Data Engineer who loves using:</p>
 <div align="center"><a><img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /></a>
 <a><img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" /></a>
 <a><img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /></a>
