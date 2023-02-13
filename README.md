@@ -1,10 +1,3 @@
-### Hi there 👋
-
-![Oliver's Github Profile Views](https://komarev.com/ghpvc/?username=OliverCadman)
-
-            
-          
-
 <h1 align="center">Hey There :v:</h1>
 <h2 align="center">I'm Adam Tadele, a Data Engineer.</h2>
 <p align="center">I'm a passionate Data Engineer who loves using:</p>
