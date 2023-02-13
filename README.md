@@ -9,10 +9,10 @@
 <h2 align="center">I'm Adam Tadele, a Data Engineer.</h2>
 <p align="center">I'm a passionate Data Engineer who loves using: <br>
 <div align="center"><a><img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /></a>
-<a><img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" /></a>
+<a><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" /></a>
 <a><img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /></a>
 <a><img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" /></a> 
-<a><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain-wordmark.svg" /></a> 
+<a><img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain-wordmark.svg" /></a> 
 </div>
             to create, maintain, troubleshoot and upgrade data infrastructures and pipelines.</p>
 <br>
