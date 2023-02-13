@@ -7,7 +7,12 @@
 
 <h1 align="center">Hey There :v:</h1>
 <h2 align="center">I'm Adam Tadele, a Data Engineer.</h2>
-<p align="center">I'm a passionate Data Engineer who loves using frameworks, tools and programming languages to create, maintain, troubleshoot and upgrade data infrastructures and pipelines.</p>
+<p align="center">I'm a passionate Data Engineer who loves using 
+<a><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /></a>
+<a><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" /></a>
+<a><img width="70" height="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /></a>
+<a><img width="70" height="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /></a>
+            to create, maintain, troubleshoot and upgrade data infrastructures and pipelines.</p>
 <br>
 
 - :open_book: Recently graduated with Distinction from the **Code Institute**, with a Diploma in Software Development.
