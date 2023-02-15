@@ -10,7 +10,7 @@
 <p align="center">to create, maintain, troubleshoot and upgrade data infrastructures and pipelines.</p>
 <br>
 
-- :open_book: Recently completed Data Engineering projects and courses as a hobby.
+- :open_book: Recently completed Data Engineering projects and courses as a hobby
 
 - :raising_hand_man: I'm here to work on projects that'll make a better tomorrow.
 
